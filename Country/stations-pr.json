@@ -210,16 +210,6 @@
     "favicon": "https://www.radio.net/300/94wipsportsradio.jpeg?version=6e93816ff6fa332eab1cf134e73841e4"
   },
   {
-    "name": "3.MSNBC",
-    "country": "puerto-rico",
-    "station_slug": "msnbc",
-    "station_page": "https://www.radio.net/s/msnbc",
-    "location": "USA",
-    "genres": null,
-    "stream_url": "https://tunein.cdnstream1.com/3511_96.aac/playlist.m3u8",
-    "favicon": "https://www.radio.net/300/msnbc.jpeg?version=bb9415e0814601294d545d3f0b1701f5"
-  },
-  {
     "name": "4.WXYT-FM - 97.1 The Ticket",
     "country": "puerto-rico",
     "station_slug": "wxyt",
@@ -248,45 +238,6 @@
     "genres": null,
     "stream_url": "https://live.amperwave.net/manifest/audacy-wscramaac-hlsc.m3u8/",
     "favicon": "https://www.radio.net/300/wscr.jpeg?version=7d6ceed7d45d3f83bf9befca3d55178a"
-  },
-  {
-    "name": "7.FOX News",
-    "country": "puerto-rico",
-    "station_slug": "foxnews",
-    "station_page": "https://www.radio.net/s/foxnews",
-    "location": "USA",
-    "genres": null,
-    "stream_url": null,
-    "favicon": "https://www.radio.net/300/foxnews.png?version=0a3bfef74fa3ee18848e9e243af1b83f"
-  },
-  {
-    "name": "8.WINS - 1010 WINS CBS New York",
-    "country": "puerto-rico",
-    "station_slug": "wins",
-    "station_page": "https://www.radio.net/s/wins",
-    "location": "USA",
-    "genres": null,
-    "stream_url": "https://live.amperwave.net/manifest/audacy-winsamaac-hlsc.m3u8",
-    "favicon": "https://www.radio.net/300/wins.png?version=5b8b28288bb1d4a291b590e9b00066f9"
-  },
-  {
-    "name": "9.Steelers Nation Radio",
-    "country": "puerto-rico",
-    "station_slug": "snr",
-    "station_page": "https://www.radio.net/s/snr",
-    "location": "USA",
-    "genres": null,
-    "stream_url": "https://cdn3.wowza.com/1/T0RzenNieVdQZlhj/OTd3RUJW/hls/live/playlist.m3u8",
-    "favicon": "https://www.radio.net/300/snr.png?version=87afad45b6f201ecf9035616d058c447"
-  },
-  {
-    "name": "10.WMVP - ESPN 1000 AM",
-    "country": "puerto-rico",
-    "station_slug": "wmvp",
-    "station_page": "https://www.radio.net/s/wmvp",
-    "location": "USA",
-    "genres": null,
-    "stream_url": "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-hlsc1.m3u8",
-    "favicon": "https://www.radio.net/300/wmvp.png?version=773fb8a7f1d7129897ff6472e913d23b"
   }
+
 ]
